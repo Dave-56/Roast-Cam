@@ -1,0 +1,7 @@
+{
+  "name": "Roast Cam",
+  "description": "Get roasted by AI in three unique styles. Fun, savage, and shareable.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
